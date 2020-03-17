@@ -87,7 +87,7 @@ export class Form extends Component {
                 <option value="Iceland">Iceland</option>
                 <option value="India">India</option>
                 <option value="Indonesia">Indonesia</option>
-                <option value="Iran, Islamic Republic of">Iran, Islamic Republic of</option>
+                <option value="Iran">Iran, Islamic Republic of</option>
                 <option value="Iraq">Iraq</option>
                 <option value="Ireland">Ireland</option>
                 <option value="Isle of Man">Isle of Man</option>
@@ -160,7 +160,7 @@ export class Form extends Component {
                 <option value="Qatar">Qatar</option>
                 <option value="Reunion">Reunion</option>
                 <option value="Romania">Romania</option>
-                <option value="Russian Federation">Russian Federation</option>
+                <option value="Russia">Russian Federation</option>
                 <option value="Rwanda">Rwanda</option>
                 <option value="Saudi Arabia">Saudi Arabia</option>
                 <option value="Senegal">Senegal</option>
