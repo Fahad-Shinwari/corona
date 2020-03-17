@@ -36,7 +36,7 @@ export class App extends Component {
          <div className="container" style={{background: "#f3f4f1"}}>
            <div className="row">
              <div className="col-md-10">
-               <h1 className="mt-3 center">Corona Virus Status Worldwide</h1>
+               <h1 className="mt-3 center">Corona Virus Status Worldwide</h1>Made by Fahad
              <Form data={this.azan} />
               <h2 className="mt-3" style={{color:"blue"}}>{this.state.country}</h2>
               <h2 className="mt-3">Total Cases : {this.state.cases}</h2> 
