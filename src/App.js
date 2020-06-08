@@ -15,7 +15,7 @@ export class App extends Component {
   azan = async(e) => {
     e.preventDefault()
     const country = e.target.elements.country.value
-    const data = await fetch(`https://corona.lmao.ninja/countries/${country}`)
+    const data = await fetch(`https://disease.sh/v2/countries/${country}`)
     const jsonData = await data.json()
     console.log(jsonData);
     this.setState({
